@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 100%;
+    background-color: #161f26;
+    color: white;
+    padding: 8%;
+}
+
+#contenido{
+    background-color: #444040;
+}
+
+
+header{
+    background-color: #141414;
+    margin-left: 15%;
+    margin-right: 15%;
+
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#Portada{
+    background-color: #141414;
+    margin-left: 15%;
+    margin-right: 15%;
+
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#Introduccion{
+    background-color: #141414;
+    margin-left: 15%;
+    margin-right: 15%;
+
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+
+#ExtenconConformacionDeTemas{
+    background-color: #141414;
+    margin-left: 15%;
+    margin-right: 15%;
+
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+
+
+
+img{
+    width: 25%;
+    height: auto;
+}
+
+
+aside {
+	width: 30%;
+	background: #161f26;
+	padding: px;
+	color: #fff;
+	float: right;
+}
+
+aside .widget {
+	margin-bottom:20px;
+}
+
+aside .widget .titulo{
+    font-size: large;
+	color: #ff8000;
+	border-bottom: 1px solid #ff8000;
+	margin-bottom: 10px;
+}
+
+aside .widget ul{
+	list-style: none;
+}
+
+aside .widget ul li{
+	border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+	padding: 5%;
+}
+
+aside .widget ul li a{
+	color: #fff;
+	text-decoration: none;
+}
+
+aside .widget ul li a:hover{
+	color: #8f8f8f;
+}
+
+aside .widget p{
+	line-height: 27px;
+}
+
